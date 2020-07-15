@@ -1,0 +1,23 @@
+actions = create html, 'create' div & CSS styling
+start: 5:00pm
+end: 5:45
+time-taken: 45min
+
+===============================================================================
+
+create meme function 
+    - add all the correct variables and make sure they are working properly
+start: 6:00
+end: 8:00
+time-taken: 3 hours
+time-todate: 3hr 45min
+
+===============================================================================
+
+fix css 
+- so the images can show 
+start: 8:00pm
+end: 8:30
+time-taken: 35min
+time-todate: 1hr 55min
+
